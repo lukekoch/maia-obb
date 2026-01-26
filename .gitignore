@@ -1,0 +1,4 @@
+extra_*
+*.png
+models/*
+runs/*

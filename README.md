@@ -1,0 +1,2 @@
+# MAIA OBB Training
+This repository contains code to evaluate an OBB dataset and train a YOLOv11 model for use with MAIA, arranged as a series of jupyter notebooks. Additionally, code for advanced segmentation using SAM2 an vessel filters is provided. 
